@@ -1,3 +1,3 @@
 # deepsolution
-This is my First Repository
+This is my First Repository.
 Author - Pradeep Kumar Sijui
